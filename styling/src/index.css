@@ -1,0 +1,9 @@
+/* External styling */
+.btn {
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 20px;
+}
